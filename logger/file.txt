@@ -1,0 +1,4 @@
+PREFIX: 2014/04/15 17:52:27 logger.go:56: File logging
+PREFIX: 2014/04/15 17:53:44 logger.go:58: File logging
+WARNING: 2014/04/15 17:56:11 logger.go:53: There is something you need to know about
+WARNING: 2014/04/15 18:04:20 logger.go:55: There is something you need to know about
